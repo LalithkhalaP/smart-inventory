@@ -18,3 +18,5 @@ Download the repository.
 Open Smart Inventory.html in a web browser.
 Register and start using the application.
 Project Type College Mini Project
+
+Our site is live at https://lalithkhalap.github.io/smart-inventory
